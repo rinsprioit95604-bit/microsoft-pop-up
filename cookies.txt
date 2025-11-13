@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+brycencantrell.autos	TRUE	/	FALSE	1999999999	FirstTimer	1
+brycencantrell.autos	TRUE	/	FALSE	1999999999	phone	888-812-2267
+

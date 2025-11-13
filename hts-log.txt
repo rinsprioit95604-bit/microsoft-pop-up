@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Aug 2023 08:52:45 at https://brycencantrell.autos/sort/eleven/?phone=cosmo +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://brycencantrell.autos/sort/eleven/?phone=cosmo -O1 "C:\My Web Sites\WINDOWS LADY POP UP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:53:02	Error: 	"Not Found" (404) at link https://brycencantrell.autos/sort/eleven/q-rr3ps9.js (from https://brycencantrell.autos/sort/eleven/Cw6fKREA.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 31 links scanned, 30 files written (1483257 bytes overall) [1009080 bytes received at 59357 bytes/sec], 612783 bytes transferred using HTTP compression in 13 files, ratio 20%, 7.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
